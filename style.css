@@ -1,0 +1,17 @@
+* {
+    background-color: bisque;
+    align-items: center;
+}
+
+.img-h1 {
+    display: flex;
+}
+
+img {
+    width: 100px;
+    border-radius: 50px;
+}
+
+h1 {
+    padding-left: 50px;
+}
